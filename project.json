@@ -1,0 +1,86 @@
+[
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Pohybov\u00e9 \u00falohy",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "I:\\#manim\\testy\\media\\videos\\1\\2160p60\\sections\\Pohybovky_0000.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "Pohybov\u00e9 \u00falohy",
+                "in_project_video": "video_0000.mp4",
+                "in_project_thumbnail": "thumb_0000.jpg",
+                "in_project_id": 0,
+                "parent_id": 0
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "\u00daloha",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "I:\\#manim\\testy\\media\\videos\\1\\2160p60\\sections\\Pohybovky_0001.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 22.0,
+                "project_name": "Pohybov\u00e9 \u00falohy",
+                "in_project_video": "video_0001.mp4",
+                "in_project_thumbnail": "thumb_0001.jpg",
+                "in_project_id": 1,
+                "parent_id": 1
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "V\u00fdpo\u010det",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "I:\\#manim\\testy\\media\\videos\\1\\2160p60\\sections\\Pohybovky_0002.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 28.0,
+                "project_name": "Pohybov\u00e9 \u00falohy",
+                "in_project_video": "video_0002.mp4",
+                "in_project_thumbnail": "thumb_0002.jpg",
+                "in_project_id": 2,
+                "parent_id": 2
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "Vsazen\u00ed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "I:\\#manim\\testy\\media\\videos\\1\\2160p60\\sections\\Pohybovky_0003.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 7.0,
+                "project_name": "Pohybov\u00e9 \u00falohy",
+                "in_project_video": "video_0003.mp4",
+                "in_project_thumbnail": "thumb_0003.jpg",
+                "in_project_id": 3,
+                "parent_id": 3
+            }
+        ]
+    }
+]
